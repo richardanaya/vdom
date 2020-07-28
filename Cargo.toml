@@ -1,0 +1,13 @@
+[package]
+name = "vdom"
+version = "0.0.0"
+authors = ["Richard <Richard>"]
+edition = "2018"
+license = "MIT OR Apache-2.0"
+description = "a virtual dom library"
+repository = "https://github.com/richardanaya/vdom/"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+view = "0"
